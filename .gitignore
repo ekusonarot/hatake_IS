@@ -1,0 +1,6 @@
+*.png
+*.tif
+*.json
+*.pth
+work_dirs
+.ipynb_checkpoints
